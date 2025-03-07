@@ -164,6 +164,7 @@ a {
     }
 
     & .content_group .select_boxes .box select {
+      appearance: none;
       width: 100%;
       height: 50px;
       padding: 0.6rem 1rem;
