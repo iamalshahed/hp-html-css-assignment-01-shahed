@@ -433,6 +433,7 @@ a {
   position: relative;
   width: 100%;
   height: 600px;
+  border-top: 1px solid #000;
   padding: 2rem;
   background: #CFBAFF;
   text-align: center;
